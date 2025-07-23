@@ -1,0 +1,16 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+  color: #c44569;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+footer {
+  color: #5c5c5c;
+  font-size: 0.9rem;
+}
